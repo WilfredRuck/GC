@@ -1,0 +1,21 @@
+div {
+    font-family: Arial;
+    color:red;
+}
+
+.div1 {
+    color: black;
+}
+
+.div2 {
+    color: blue;
+}
+
+.div3 {
+    color: red;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+}
