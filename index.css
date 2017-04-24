@@ -5,6 +5,7 @@ div {
 
 .div1 {
     color: black;
+    padding-top: 15px;
 }
 
 .div2 {
@@ -13,9 +14,4 @@ div {
 
 .div3 {
     color: red;
-}
-
-li {
-    display: inline;
-    list-style-type: none;
 }
