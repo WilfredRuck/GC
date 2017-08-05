@@ -15,3 +15,8 @@ div {
 .div3 {
     color: red;
 }
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse
+}
